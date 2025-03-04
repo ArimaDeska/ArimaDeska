@@ -17,11 +17,11 @@ I am a student in a vocational high school who has an interest in C++ programmin
 
 ## 💻Tech Stacks:
 
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
-![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?logo=cisco&logoColor=white)
-![MikroTik](https://img.shields.io/badge/-MikroTik-FF0000?logo=mikrotik&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
+![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?logo=cisco&logoColor=white&style=for-the-badge)
+![MikroTik](https://img.shields.io/badge/-MikroTik-FF0000?logo=mikrotik&logoColor=white&style=for-the-badge)
 
 
 <img src="https://github.com/user-attachments/assets/e7764352-fc33-415f-90d2-c38837654e26" alt="Banner Profil" width="600"/>
