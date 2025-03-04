@@ -22,7 +22,7 @@ I am a student in a vocational high school who has an interest in C++ programmin
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
 ![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?logo=cisco&logoColor=white&style=for-the-badge)
 ![MikroTik](https://img.shields.io/badge/-MikroTik-FF0000?logo=mikrotik&logoColor=white&style=for-the-badge)
-![CapCut](https://img.shields.io/badge/-CapCut-000000?logo=capcut&logoColor=white&style=for-the-badge)
+![CapCut](https://img.shields.io/badge/-CapCut-FFFFFF?logo=capcut&logoColor=white&style=for-the-badge)
 ![Debian](https://img.shields.io/badge/-Debian-A81D33?logo=debian&logoColor=white&style=for-the-badge)
 
 
