@@ -26,7 +26,10 @@ I am a student in a vocational high school who has an interest in C++ programmin
 ![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=ArimaDeska&show_icons=true&theme=radical)
 
 
-<img src="https://github.com/user-attachments/assets/e7764352-fc33-415f-90d2-c38837654e26" alt="Banner Profil" width="600"/>
+<img src="https://github.com/user-attachments/assets/e7764352-fc33-415f-90d2-c38837654e26" alt="Banner Profil" width="400"/>
+<img src="https://github.com/user-attachments/assets/44ff9ec4-72cc-468b-8e8d-438dc0e3ae04" alt="Banner Profil" width="400"/>
+<img src="https://github.com/user-attachments/assets/09df8045-1e18-4f3c-9417-e838a4329444" alt="Banner Profil" width="400"/>
+<img src="https://github.com/user-attachments/assets/e59a7fa3-3a7f-4dd8-b6a8-f526ca31d1e5" alt="Banner Profil" width="400"/>
 
 <!--
 **ArimaDeska/ArimaDeska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
