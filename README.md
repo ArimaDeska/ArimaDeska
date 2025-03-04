@@ -10,11 +10,6 @@ I am a student in a vocational high school who has an interest in C++ programmin
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/ArimaDes)
 
 
-## 📊 Github Stats:
-
-![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=ArimaDeska&show_icons=true&theme=radical)
-
-
 ## 💻Tech Stacks:
 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge)
@@ -24,6 +19,11 @@ I am a student in a vocational high school who has an interest in C++ programmin
 ![MikroTik](https://img.shields.io/badge/-MikroTik-C7C6C1?logo=mikrotik&logoColor=black&style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=yellow&style=for-the-badge)
 ![Debian](https://img.shields.io/badge/-Debian-A81D33?logo=debian&logoColor=white&style=for-the-badge)
+
+
+## 📊 Github Stats:
+
+![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=ArimaDeska&show_icons=true&theme=radical)
 
 
 <img src="https://github.com/user-attachments/assets/e7764352-fc33-415f-90d2-c38837654e26" alt="Banner Profil" width="600"/>
