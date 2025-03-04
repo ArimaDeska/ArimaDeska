@@ -25,6 +25,7 @@ I am a student in a vocational high school who has an interest in C++ programmin
 
 ![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=ArimaDeska&show_icons=true&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=ArimaDeska&theme=radical)
+![Grafik Aktivitas GitHub](https://ghchart.rshah.org/ArimaDeska)
 
 
 <img src="https://github.com/user-attachments/assets/e7764352-fc33-415f-90d2-c38837654e26" alt="Banner Profil" width="400"/>
