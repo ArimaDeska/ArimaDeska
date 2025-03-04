@@ -14,7 +14,6 @@ I am a student in a vocational high school who has an interest in C++ programmin
 
 ![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=ArimaDeska&show_icons=true&theme=radical)
 
---
 
 ## 💻Tech Stacks:
 
@@ -25,7 +24,7 @@ I am a student in a vocational high school who has an interest in C++ programmin
 ![MikroTik](https://img.shields.io/badge/-MikroTik-FF0000?logo=mikrotik&logoColor=white)
 
 
-![Aku Imphnen!]([link_gambar](https://imgur.com/a/eez7s7z))
+![Aku Imphnen!](https://imgur.com/a/eez7s7z)
 
 <!--
 **ArimaDeska/ArimaDeska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
