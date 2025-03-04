@@ -20,9 +20,9 @@ I am a student in a vocational high school who has an interest in C++ programmin
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
-![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?logo=cisco&logoColor=white&style=for-the-badge)
+![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?logo=cisco&logoColor=black&style=for-the-badge)
 ![MikroTik](https://img.shields.io/badge/-MikroTik-FF0000?logo=mikrotik&logoColor=white&style=for-the-badge)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=yellow&style=for-the-badge)
 ![Debian](https://img.shields.io/badge/-Debian-A81D33?logo=debian&logoColor=white&style=for-the-badge)
 
 
