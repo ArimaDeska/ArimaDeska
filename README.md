@@ -1,7 +1,10 @@
-## Hi there 👋
----
+## About Me💁‍♂️:
+
+I am a student in a vocational high school who has an interest in C++ programming and IoT innovation. My focus lies on creating creative projects using Arduino and ESP32 microcontrollers. I love learning something that interests me like programming, routing, and network system administration.
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fahribranz)
----
+
+
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
