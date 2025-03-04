@@ -24,7 +24,6 @@ I am a student in a vocational high school who has an interest in C++ programmin
 ![MikroTik](https://img.shields.io/badge/-MikroTik-FF0000?logo=mikrotik&logoColor=white)
 
 
-![Aku Imphnen](https://github.com/user-attachments/assets/21fa9f7e-b74a-4d6a-820a-bf9cf303b165)
 <img src="https://github.com/user-attachments/assets/e7764352-fc33-415f-90d2-c38837654e26" alt="Banner Profil" width="600"/>
 
 <!--
