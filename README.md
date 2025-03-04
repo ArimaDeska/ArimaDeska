@@ -3,21 +3,20 @@
 I am a student in a vocational high school who has an interest in C++ programming and IoT innovation. My focus lies on creating creative projects using Arduino and ESP32 microcontrollers. I love learning something that interests me like programming, routing, and network system administration.
 
 
----
+--
 
 ## 🌐 Socials:
-
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/[username_instagram_anda])
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/[username_youtube_anda])
 
--
+--
 
 ## 📊 Statistik GitHub
 
 ![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=[ArimaDeska]&show_icons=true&theme=radical)
 
--
+--
 
 ## 💻Tech Stacks
 
